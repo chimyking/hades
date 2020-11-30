@@ -1,4 +1,4 @@
-import get from '../Object/get'
+import get from '../package/Object/get'
 
 /**
  * The base implementation of `at` without support for individual paths.
