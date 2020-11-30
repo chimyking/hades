@@ -1,0 +1,29 @@
+{
+  "name": "hades",
+  "version": "1.0.0",
+  "description": "js tools",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chimyking/hades.git"
+  },
+  "keywords": [
+    "lodash",
+    "underscore",
+    "fp",
+    "functional",
+    "programming"
+  ],
+  "author": "chimy king <chimywang@163.com> (chimytech.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chimyking/hades/issues"
+  },
+  "homepage": "https://github.com/chimyking/hades#readme"
+}
